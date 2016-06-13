@@ -28,7 +28,7 @@ The app is available online at https://papplegate.shinyapps.io/energy_co2_qualit
 A sample plot
 ========================================================
 
-![plot of chunk unnamed-chunk-1](gdp_shiny-figure/unnamed-chunk-1-1.png) 
+![plot of chunk unnamed-chunk-1](unnamed-chunk-1-1.png) 
 
 References and useful links
 ========================================================
